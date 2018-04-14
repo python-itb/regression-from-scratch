@@ -7,4 +7,7 @@ $$\sum(y-\hat{y})^2$$
 Remember that $\hat{y}$ is equal to $b_0+b_1x$ so we can expand this further into
 $$\sum(y-(b_0+b_1x))^2$$
 
+https://gist.github.com/amajidsinar/6c81fff7944805db6d9769bbf5b4cfb6
+
+
 
