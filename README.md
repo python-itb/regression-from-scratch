@@ -4,12 +4,8 @@ RSS is simply the squared difference between target ![](./images/y.gif) and esti
 
 <p align="center"><img src ="./images/rss_equation.gif"/></p>
 
-![](./images/rss_equation.gif)
-
 Remember that ![](./images/y_hat.gif) is equal to ![](./images/b_0+b_1x.gif) so we can expand this further into:
 
 <p align="center"><img src ="./images/rss_expanded.gif"/></p>
-
-![](./images/rss_expanded.gif)
 
 https://gist.github.com/amajidsinar/6c81fff7944805db6d9769bbf5b4cfb6
