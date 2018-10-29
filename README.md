@@ -2,10 +2,14 @@ This is the derivation of both the closed form and gradient descent solution of 
 
 RSS is simply the squared difference between target ![](./images/y.gif) and estimated value ![](./images/y_hat.gif).
 
-<p align="center">![](./images/rss_equation.gif)</p>
+<p align="center"><img src ="./images/rss_equation.gif"/></p>
+
+![](./images/rss_equation.gif)
 
 Remember that ![](./images/y_hat.gif) is equal to ![](./images/b_0+b_1x.gif) so we can expand this further into:
 
-<p align="center">![](./images/rss_expanded.gif)</p>
+<p align="center"><img src ="./images/rss_expanded.gif"/></p>
+
+![](./images/rss_expanded.gif)
 
 https://gist.github.com/amajidsinar/6c81fff7944805db6d9769bbf5b4cfb6
